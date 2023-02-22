@@ -7,8 +7,7 @@ I'm Stavros Melidoniotis, a Full Stack Developer and Open Source enthousiast fro
 Learn more about me by visiting my [portfolio](https://stavros-melidoniotis.github.io). ↩️
 
 - 👨‍💻 Current job: Web Developer @ Crowdpolicy
-- 🔬 Experimenting with: React
-- ❤️ Favorite tools & languages: Node.js, Javascript, Python
+- 🔬 Experimenting with: React, NextJS, Typescript
 - 🔧 Building stuff with: vscode on Linux
 - 💬 Ask me about: Web Development
 - 📫 How to reach me: [via LinkedIn](https://www.linkedin.com/in/stavros-melidoniotis/) or [email me](mailto:melidon.stavros@gmail.com)
